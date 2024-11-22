@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Email de Notificação</title>
+    <style>
+        .corpo_email {
+            font-family: 'Consolas', monospace;
+            font-size: 15px;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        p {
+            margin: 20px 0;
+        }
+        .header {
+            background-color: #FFA500;
+            color: white;
+            padding: 8px 10px;
+            text-align: left;
+            display: block;
+            margin-bottom: 10px;
+        }
+        h1 {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Notificação de Processo RPA</h1>
+    </div>
+    <div class="corpo_email">
+        <p>Olá!</p>
+
+        <p>O processo do robô <span class="bold">::NOME_PROJETO::</span> foi finalizado com <span class="bold">FALHA</span> na máquina <span class="bold">::AGENT_NAME::</span>.</p>
+
+
+        <p>O suporte deverá atuar para corrigir o processamento do robô.</p>
+
+
+        <p>A atividade foi iniciada <span class="bold">::DATA_INIT::</span> e finalizada <span class="bold">::DATA_END::</span>.</p>
+
+        <p>Atenciosamente,</p>
+
+        <p><span class="bold">Equipe de RPA</span></p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+botcity-framework-core>=1.0.0,<2.0
+pandas
+openpyxl
+custom_logging @ git+https://github.com/gmellotec/custom_logging.git@main
+custom_path @ git+https://github.com/gmellotec/custom_path.git@main
+selenium
+webdriver-manager
