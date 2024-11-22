@@ -14,16 +14,19 @@ class Functions:
         path.clear_dirs(path.images())
         
     @staticmethod
-    def data_formatada(format: str='%Y%m%d', time_delta=0):
+    def data_formatada(format: str=None, time_delta=0):
         data_hoje = datetime.today()
 
         if time_delta > 0:
             data_retroativa = data_hoje - timedelta(days=time_delta)
-            data_retroativa = data_retroativa.strftime(format)   
+            
+            if format is not None:
+                data_retroativa = data_retroativa.strftime(format)   
 
             return data_retroativa
         else:
-            data_hoje = data_hoje.strftime(format)
+            if format is not None:
+                data_hoje = data_hoje.strftime(format)
         
             return data_hoje
         

@@ -1,0 +1,1117 @@
+2024-11-21 22:12:48   [ERROR] - Erro ao conectar ao banco de dados: unable to open database file - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 24, in connect_to_db
+    self.conn = sqlite3.connect(self.path_db)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: unable to open database file
+
+2024-11-21 22:16:35    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 22:24:20    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 22:37:53    [INFO] - Conexão com o banco de dados fechada com sucesso..
+2024-11-21 22:38:07    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 22:38:46    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 22:38:49    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 22:41:01    [INFO] - limpar tabela do banco de dados.
+2024-11-21 22:41:01    [INFO] - Todos os dados foram removidos da fila com sucesso..
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:41:02   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 22:42:05    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:42:08   [ERROR] - Erro ao inserir dados: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: table rpa_soufer_queue_retorno_extrato has no column named nome_arquivo
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 22:43:00   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.data_execucao
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:02:27   [ERROR] - Erro ao inserir dados: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.IntegrityError: NOT NULL constraint failed: rpa_soufer_queue_retorno_extrato.status
+
+2024-11-21 23:03:41    [INFO] - Todos os dados foram removidos da fila com sucesso..
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:47   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:03:54    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:05:24    [INFO] - Todos os dados foram removidos da fila com sucesso..
+2024-11-21 23:05:26    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:16:51    [INFO] - Todos os dados foram removidos da fila com sucesso..
+2024-11-21 23:16:55    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:35:29   [ERROR] - Erro ao remover os dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 150, in drop_table
+    self.cursor.execute(query)
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:35:50    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:35:58   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:04   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:09   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:15   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:20   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:26   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:31   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:37   [ERROR] - Erro ao inserir dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 80, in insert
+    self.conn.commit()
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:36:52    [INFO] - Conexão com o banco de dados fechada com sucesso..
+2024-11-21 23:36:55    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 23:37:07   [ERROR] - Erro ao remover os dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 150, in drop_table
+    self.cursor.execute(query)
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:37:45   [ERROR] - Erro ao remover os dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 150, in drop_table
+    self.cursor.execute(query)
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:37:49    [INFO] - Conexão com o banco de dados fechada com sucesso..
+2024-11-21 23:38:19    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 23:38:29   [ERROR] - Erro ao remover os dados: database is locked - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 150, in drop_table
+    self.cursor.execute(query)
+sqlite3.OperationalError: database is locked
+
+2024-11-21 23:39:14    [INFO] - Conexão com o banco de dados fechada com sucesso..
+2024-11-21 23:39:17    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 23:39:19    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:39:49    [INFO] - Todos os dados foram removidos da fila com sucesso..
+2024-11-21 23:39:53    [INFO] - Conexão com o banco de dados fechada com sucesso..
+2024-11-21 23:39:55    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 23:39:58    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:40:30    [INFO] - Todos os dados foram removidos da fila com sucesso..
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:10   [ERROR] - Erro ao inserir dados: no such table: rpa_soufer_queue_retorno_extrato - Traceback (most recent call last):
+  File "d:\DevRPA\Clientes\Soufer\Projetos\RPA_Soufer_Retorno_Extrato_v2\utils\sqlite.py", line 79, in insert
+    self.cursor.execute(query, values)
+sqlite3.OperationalError: no such table: rpa_soufer_queue_retorno_extrato
+
+2024-11-21 23:41:20    [INFO] - Conexão com o banco de dados estabelecida com sucesso..
+2024-11-21 23:41:22    [INFO] - Tabela 'rpa_soufer_queue_retorno_extrato' criada com sucesso..
+2024-11-21 23:43:00    [INFO] - Todos os dados foram removidos da fila com sucesso..

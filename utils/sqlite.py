@@ -38,6 +38,33 @@ class SQLite:
             log.info("Conexão com o banco de dados fechada com sucesso.")
             self.conn = None
             self.cursor = None
+            
+
+    def create_table(self):
+        """
+        Cria a tabela no banco de dados se ela não existir.
+        """
+        query = f"""
+        CREATE TABLE IF NOT EXISTS {self.db_name} (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            data_execucao TEXT NOT NULL,
+            data_arquivo TEXT NOT NULL,
+            data_processamento TEXT,
+            status TEXT NOT NULL,
+            banco TEXT NOT NULL,
+            empresa TEXT NOT NULL,
+            formato_extrato TEXT NOT NULL,
+            caminho_arquivo TEXT NOT NULL,
+            arquivo TEXT NOT NULL
+        )
+        """
+        try:
+            self.cursor.execute(query)
+            self.conn.commit()
+            log.info(f"Tabela '{self.db_name}' criada com sucesso.")
+        except sqlite3.Error as e:
+            log.error(f"Erro ao criar a tabela: {e}")
+            self.conn.rollback()
 
 
     def insert(self, data: dict):
@@ -118,7 +145,7 @@ class SQLite:
         """
         Remove todos os dados da tabela do banco de dados.
         """
-        query = f"DELETE FROM {self.db_name}"
+        query = f"DROP TABLE IF EXISTS {self.db_name}"
         try:
             self.cursor.execute(query)
             self.conn.commit()
